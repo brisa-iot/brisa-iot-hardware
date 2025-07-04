@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-07-04T22:14:34Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Placa de circuito impreso v35"
+        },
+        "Owner": "Kevin Justiniano <kevin.justiniano@uc.cl>",
+        "Size": {
+            "X": 92.69,
+            "Y": 68.25
+        }
+    }
+}

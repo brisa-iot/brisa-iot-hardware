@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-07-04T22:16:06Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB Potencia V2 v4"
+        },
+        "Owner": "Kevin Justiniano <kevin.justiniano@uc.cl>",
+        "Size": {
+            "X": 95.23,
+            "Y": 56.82
+        }
+    }
+}
